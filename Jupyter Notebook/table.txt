@@ -1,0 +1,10 @@
+Name       |        Scores
+Alice      |     66 34 52 96
+Bob        |     33 22 93
+Carol      |     97 65 84 86 25
+David      |     37 62 23 90
+Edward     |     43 79 83 79 94
+Frances    |     15 64
+George     |     45 45 53 53 
+Harold     |     72 29 32 80
+Iris       |     22 25 42 75 43
